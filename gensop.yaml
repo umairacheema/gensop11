@@ -1,0 +1,6 @@
+
+  model_name: 'lama'
+  model_path: './models/Llama-3.2-8B-Instruct'
+  device: 'mps'
+
+  system_prompt: 'You are an expert in Chemistry and chemical engineering instrument and chemicals safety'
